@@ -23,12 +23,6 @@ struct komplek
 	double hasil;
 };
 
-/*void penambahan(komplek& nilai);
-void pengurangan(komplek& nilai);
-void pembagian(komplek& nilai);
-void perkalian(komplek& nilai);
-void setcolor();*/
-
 void penambahan(komplek& nilai)
 {
 	cout << "PENJUMLAHAN " << endl;
